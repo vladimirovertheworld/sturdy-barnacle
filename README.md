@@ -1,13 +1,18 @@
 # Vladimir Ovcharov
 
-## Chief Technology Officer | System Technical Analyst | System Developer
+## Chief Technology Officer | System Technical Analyst | System Architect
+
 ```
 My Location depends on coordinates I interpret as 0:0
 I do prefer GMT-8 up to GMT+10, consider to shift the limits
 ```
 +41799317649   | vladimir@overtheworld.uk
-+380944990164  |  
-[LinkedIn Profile](https://www.linkedin.com/in/volodymyrovcharov/)
++380944990164  | ukraine@overtheworld.uk
+
+[googlemeet](bold.enough41@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/volodymyrovcharov/)
+[github](https://lookaround.local)
+
 
 ## Summary
 
