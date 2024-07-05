@@ -9,21 +9,20 @@ I do prefer GMT-8 up to GMT+10, consider to shift the limits
 +41799317649   | vladimir@overtheworld.uk
 +380944990164  | ukraine@overtheworld.uk
 
-[googlemeet](bold.enough41@gmail.com)
+To contact me use [googlemeet](bold.enough41@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/volodymyrovcharov/)
-[github](https://lookaround.local)
-
+You are here: [github](https://github.com/vladimirovertheworld/sturdy-barnacle/edit/main/README.md)
 
 ## Summary
 
-Master of Science in Computer Science with a strong background in applied mathematics. Over 15 years of experience in blockchain technology, distributed systems, and emerging technologies. Currently leading the adoption of cutting-edge AI technologies as CTO at SystematicLabs, focusing on ethical implementation of deep machine learning, ontological networks, and large language models. Expertise in blockchain development, cryptography, and cybersecurity. Passionate about driving innovation in C-Level tech roles and leading distributed developer teams in blockchain projects.
+Master of Science in Computer Science with a robust foundation in applied mathematics, and a graduate of the prestigious Institute of Cybernetics. Over 15 years of experience in data technologies and distributed systems, with a constant openness to emerging technologies in cybernetics. Currently spearheading the adoption of cutting-edge AI technologies as CTO at SystematicLabs, focusing on the ethical implementation of deep machine learning, ontological networks, and large language models. Proven expertise in system development, cryptography, and cybersecurity. Passionate about driving innovation in C-Level tech roles and leading distributed developer teams across various advanced technology projects. An active contributor to the tech community through writing articles and teaching, fostering knowledge sharing and continuous learning. Committed to bridging the gap between theoretical concepts and practical applications in the rapidly evolving tech landscape.
 
 ## Skills
 
-- **Programming Languages:** POSIX C, Rust, Assembler, WebAssembly, Node.js, Lua, Go, Solidity, Python
-- **Blockchain & Web3:** Substrate, Ethereum, Polkadot, Kusama, Smart Contracts, DeFi, DAOs
-- **AI & Machine Learning:** Deep Learning, Large Language Models, Ontological Networks
-- **DevOps & Cloud:** AWS, Docker, Kubernetes, Microservices
+- **Programming Languages:** POSIX C, Rust, Assembler, Node.js, Lua, Go, Solidity, Python
+- **Blockchain & Web3:** Substrate, Solidity, Ethereum, Polkadot, DeFi, Core blockchain techs
+- **AI & Machine Learning:** Deep ML, Large Language Models, Ontological Networks
+- **DevOps & Cloud:** AWS, GCP, Digitalocean, Docker, Kubernetes, Microservices
 - **Security:** Penetration Testing, Solidity Security Audits, Cryptography
 - **Databases:** SQL (various), MongoDB, Redis
 - **Tools & Frameworks:** Git, Jira, Confluence, Truffle, Hardhat, UML
@@ -48,6 +47,52 @@ June 2021 - January 2023 | Hong Kong SAR (Remote)
 - Managed architecture for features required by senior management
 - Oversaw code review, tech design, and team management
 - Implemented native staking using Substrate versions 3 and 4
+
+```
+ ## Cloud Platforms & Services
+
+### Amazon Web Services (AWS)
+- **Docker:** 
+  - Amazon Elastic Container Service (ECS)
+  - Amazon Elastic Container Registry (ECR)
+- **Kubernetes:** 
+  - Amazon Elastic Kubernetes Service (EKS)
+- **Microservices:** 
+  - AWS App Mesh
+  - AWS Lambda
+  - AWS Fargate
+
+### Google Cloud Platform (GCP)
+- **Docker:** 
+  - Google Cloud Run
+  - Google Container Registry (GCR)
+- **Kubernetes:** 
+  - Google Kubernetes Engine (GKE)
+- **Microservices:** 
+  - Cloud Functions
+  - Cloud Run
+  - Apigee API Platform
+
+### DigitalOcean (DO)
+- **Docker:** 
+  - DigitalOcean Container Registry
+- **Kubernetes:** 
+  - DigitalOcean Kubernetes (DOKS)
+- **Microservices:** 
+  - DigitalOcean App Platform
+
+### Microsoft Azure
+- **Docker:** 
+  - Azure Container Instances
+  - Azure Container Registry
+- **Kubernetes:** 
+  - Azure Kubernetes Service (AKS)
+- **Microservices:** 
+  - Azure Service Fabric
+  - Azure Functions
+  - Azure Container Apps
+```
+
 
 ### Toptal
 **Blockchain Technical Analyst**  
