@@ -1,6 +1,6 @@
 # Vladimir Ovcharov
 
-## Chief Technology Officer | Blockchain Technical Analyst | Blockchain Developer
+## Chief Technology Officer | System Technical Analyst | System Developer
 
 Crans-Montana, Valais, Switzerland  
 +41799317649 | bold.enough41@gmail.com  
