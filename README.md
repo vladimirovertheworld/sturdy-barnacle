@@ -1,9 +1,12 @@
 # Vladimir Ovcharov
 
 ## Chief Technology Officer | System Technical Analyst | System Developer
-
-Crans-Montana, Valais, Switzerland  
-+41799317649 | bold.enough41@gmail.com  
+```
+My Location depends on coordinates I interpret as 0:0
+I do prefer GMT-8 up to GMT+10, consider to shift the limits
+```
++41799317649   | vladimir@overtheworld.uk
++380944990164  |  
 [LinkedIn Profile](https://www.linkedin.com/in/volodymyrovcharov/)
 
 ## Summary
