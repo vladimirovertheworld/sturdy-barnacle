@@ -101,4 +101,14 @@ Blog: [Combining Convolutional Neural Networks and LSTM for Music Composition](h
 
 For more details, you can find Analogue Plastic’s music on [Apple Music](https://music.apple.com/us/artist/analogue-plastic/1592642555).
 
+## Awards and Honors
+
+- SVOD Participate
+- IIDF Best Telecommunication Startup (Internet Initiative Development Fund)
+- Winner Startup Sauna
+- Best Paper Award at the International Conference on AI in Music, 2023
+- Kyiv Institute of Cybernetics Research Excellence Award, 2022
+
+
+
 
