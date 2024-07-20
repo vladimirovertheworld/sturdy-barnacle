@@ -81,7 +81,8 @@ Blog: [LittleHolland AI/ML](https://littlehollandaiml.blogspot.com/2024/07/littl
 - Abstract: LittleHolland leverages the Mamba architecture to automate and enhance music creation, providing tools for generating, manipulating, and refining electronic music compositions.
 
 **Understanding Continuous Learning in Machine Learning**  
-Blog: [Understanding Continuous Learning in Machine Learning](https://www.blogger.com/blog/post/edit/4741987399885520963/1677294466710159032)  
+Blog: [Understanding Continuous Learning in Machine Learning]
+(https://littlehollandaiml.blogspot.com/2024/07/understanding-continuous-learning-in.html)
 - Abstract: This post explores the principles and applications of continuous learning within machine learning frameworks, with a focus on adaptive algorithms and real-time data integration.
 
 **Combining Convolutional Neural Networks and LSTM for Music Composition**  
