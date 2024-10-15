@@ -6,8 +6,8 @@
 My Location depends on coordinates I interpret as 0:0
 I do prefer GMT-8 up to GMT+10, consider to shift the limits
 ```
-+41799317649   | vladimir@overtheworld.uk
-+380944990164  | ukraine@overtheworld.uk
++41793819656   | vladimir@overtheworld.uk
+whatsapp, telegram 
 
 To contact me use [googlemeet](bold.enough41@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/volodymyrovcharov/)
@@ -15,12 +15,12 @@ You are here: [github](https://github.com/vladimirovertheworld/sturdy-barnacle/e
 
 ## Summary
 
-Master of Science in Computer Science with a robust foundation in applied mathematics, and a graduate of the prestigious Institute of Cybernetics. Over 15 years of experience in data technologies and distributed systems, with a constant openness to emerging technologies in cybernetics. Currently spearheading the adoption of cutting-edge AI technologies as CTO at SystematicLabs, focusing on the ethical implementation of deep machine learning, ontological networks, and large language models. Proven expertise in system development, cryptography, and cybersecurity. Passionate about driving innovation in C-Level tech roles and leading distributed developer teams across various advanced technology projects. An active contributor to the tech community through writing articles and teaching, fostering knowledge sharing and continuous learning. Committed to bridging the gap between theoretical concepts and practical applications in the rapidly evolving tech landscape.
+Master of Science in Computer Science with a robust foundation in applied mathematics, and a graduate of the Institute of Cybernetics and National Technical University of Ukraine. Over 15 years of experience in data technologies and distributed systems, with a constant openness to emerging technologies in cybernetics. Currently spearheading the adoption of cutting-edge AI technologies as CTO at SystematicLabs, focusing on the ethical implementation of deep machine learning, ontological networks, and large language models. Proven expertise in system development, cryptography, and cybersecurity. Passionate about driving innovation in C-Level tech roles and leading distributed developer teams across various advanced technology projects. An active contributor to the tech community through writing articles and teaching, fostering knowledge sharing and continuous learning. Committed to bridging the gap between theoretical concepts and practical applications in the rapidly evolving tech landscape.
 
 ## Skills
 
-- **Programming Languages:** POSIX C, Rust, Assembler, Node.js, Lua, Go, Solidity, Python
-- **Blockchain & Web3:** Substrate, Solidity, Ethereum, Polkadot, DeFi, Core blockchain techs
+- **Programming Languages:** Python, NodeJS, Rust, C/C++
+- **Blockchain & Web3:** Substrate, Solidity, Ethereum, Polkadot, DeFi
 - **AI & Machine Learning:** Deep ML, Large Language Models, Ontological Networks
 - **DevOps & Cloud:** AWS, GCP, Digitalocean, Docker, Kubernetes, Microservices
 - **Security:** Penetration Testing, Solidity Security Audits, Cryptography
